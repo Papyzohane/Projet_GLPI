@@ -2,28 +2,28 @@ L'enjeu ici était de passer d'une gestion de parc informelle à une solution pr
 
     Objectifs détaillés :
 
-        Inventaire Automatisé : Déployer et configurer des agents sur les postes clients pour une remontée automatique des caractéristiques matérielles et logicielles.
+        -Inventaire Automatisé : Déployer et configurer des agents sur les postes clients pour une remontée automatique des caractéristiques matérielles et logicielles.
 
-        Support Utilisateur : Configurer le module de ticketing (Helpdesk) avec une gestion fine des catégories et des priorités d'intervention.
+        -Support Utilisateur : Configurer le module de ticketing (Helpdesk) avec une gestion fine des catégories et des priorités d'intervention.
 
-        Sécurité des accès : Mettre en place un contrôle d'accès basé sur les rôles (RBAC) pour séparer les vues techniciens des vues utilisateurs.
+        -Sécurité des accès : Mettre en place un contrôle d'accès basé sur les rôles (RBAC) pour séparer les vues techniciens des vues utilisateurs.
 
     Réussites techniques :
 
-        Mise en place d'une interface de démonstration fonctionnelle illustrant la traçabilité complète d'un ticket, de l'ouverture à la résolution.  
+        -Mise en place d'une interface de démonstration fonctionnelle illustrant la traçabilité complète d'un ticket, de l'ouverture à la résolution.  
 
-        Configuration des notifications automatiques par mail pour améliorer la réactivité du support technique.
+        -Configuration des notifications automatiques par mail pour améliorer la réactivité du support technique.
 
     Difficultés et solutions :
 
-        Importation de données : Nettoyage et normalisation des bases de données existantes pour assurer une transition propre vers GLPI.
+        -Importation de données : Nettoyage et normalisation des bases de données existantes pour assurer une transition propre vers GLPI.
 
-        Adoption par l'utilisateur : Simplification de l'interface du portail captif pour encourager les collaborateurs à utiliser le système de tickets plutôt que les demandes informelles.
+        -Adoption par l'utilisateur : Simplification de l'interface du portail captif pour encourager les collaborateurs à utiliser le système de tickets plutôt que les demandes informelles.
 
     AC Validés (selon Portfolio S5.xlsx) :
 
-        AC31.03 : Réaliser une maquette de démonstration du projet.  
+        -AC31.03 : Réaliser une maquette de démonstration du projet.  
 
-        AC32.04 : Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise.  
+        -AC32.04 : Permettre aux collaborateurs de se connecter de manière sécurisée au système d’information de l’entreprise.  
 
-        AC33.06 : Sécuriser l’environnement numérique d’une application.
+        -AC33.06 : Sécuriser l’environnement numérique d’une application.
